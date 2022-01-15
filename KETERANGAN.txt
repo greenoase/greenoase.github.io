@@ -1,0 +1,6 @@
+Software yang digunakan 
+
+1. Visual Studio Code
+2. Git Bash
+3. github.io
+4. 
